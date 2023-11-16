@@ -1,2 +1,2 @@
 # 4-bit'n
-Пакунок текстур для Minetest, який зроблено настільки ліниво, що його опис навіть не було перекладено на англійську.
+Texture pack for Minetest, that made so lazy, that his description was translated word behind word.
