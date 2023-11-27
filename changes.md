@@ -13,3 +13,9 @@
 # Build 537.1
 
 - Copper blocks, ingots, lumps and ores from "minetest_game/default" now look different from iron/steel nodes/items.
+
+# Build 538
+
+- Updated Grass, Dry Grass (proposed by erlehmann from ContentDB), Papyrus and progress bar (which had a ~~skill~~ scaling issue on both PC and Android);
+- Removed "wieldhand.png" from "base" (because it was overwriting "wieldhand.png" from "minetest_game");
+- Added "icon.png" and "header.png" in "minetest_game" (to compensate for the removal of "wieldhand.png" from "base").
