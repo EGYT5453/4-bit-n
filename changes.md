@@ -19,3 +19,14 @@
 - Updated Grass, Dry Grass (proposed by erlehmann from ContentDB), Papyrus and progress bar (which had a ~~skill~~ scaling issue on both PC and Android);
 - Removed "wieldhand.png" from "base" (because it was overwriting "wieldhand.png" from "minetest_game");
 - Added "icon.png" and "header.png" in "minetest_game" (to compensate for the removal of "wieldhand.png" from "base").
+
+# Build 538.1
+
+- Updated Blueberry Bush Sampling;
+- Made Grass and Dry Grass symmetrical;
+- Made Permafrost with Stones ain't Gravel;
+- Shortened Torches;
+- Shortened Mushrooms and Flowers, made them more contrast;
+- Fixed Glass Stairs and Obsidian Glass Stairs;
+- Made Empty Drinking Glass not so huge;
+- Removed "wieldhand.png" ~~and Brian, The Hero~~ for sure.
