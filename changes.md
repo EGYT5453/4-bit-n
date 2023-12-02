@@ -30,3 +30,7 @@
 - Fixed Glass Stairs and Obsidian Glass Stairs;
 - Made Empty Drinking Glass not so huge;
 - Removed "wieldhand.png" ~~and Brian, The Hero~~ for sure.
+
+# Build 538.2
+
+- Made Butterflies smaller.
