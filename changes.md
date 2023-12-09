@@ -34,3 +34,7 @@
 # Build 538.2
 
 - Made Butterflies smaller.
+
+# Build 543
+
+- Added textures from "base" that were added in Minetest 5.8.0.
