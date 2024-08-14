@@ -38,3 +38,10 @@
 # Build 543
 
 - Added textures from "base" that were added in Minetest 5.8.0.
+
+# 2K24.08.14
+
+- Optimise textures;
+- Add most (but not all) Development Test textures;
+- Remove some unused textures and improve some others;
+- Move to another versioning scheme.
