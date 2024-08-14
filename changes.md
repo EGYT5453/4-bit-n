@@ -39,7 +39,7 @@
 
 - Added textures from "base" that were added in Minetest 5.8.0.
 
-# 2K24.08.14
+# 2024.08.14
 
 - Optimise textures;
 - Add most (but not all) Development Test textures;
